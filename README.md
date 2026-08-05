@@ -34,5 +34,5 @@ A production-ready e-commerce backend managing complete end-to-end purchasing wo
 
 ### 📬 Connect with me:
 
-* **LinkedIn:** [linkedin.com/mohammad-alawad](https://www.linkedin.com/mohammad-alawad)
+* **LinkedIn:** [linkedin.com/mohammad-alawad](https://www.linkedin.com/in/mohammad-alawad-1427853ba)
 * **Email:** moalawad787@gmail.com
