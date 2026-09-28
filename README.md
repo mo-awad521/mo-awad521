@@ -31,7 +31,7 @@ A production-ready e-commerce backend managing complete end-to-end purchasing wo
 * **Access Control:** Built a secure authentication & authorization system featuring **Role-Based Access Control (RBAC)**.
 * **Features:** Integrated secure checkouts, product filtering, pagination, Cloudinary image uploads, and automated transactional emails via Nodemailer.
 
-#### 🧩 [Web & Social Media Integration System](Repository: https://github.com/mo-awad521/social-media-link)
+#### 🧩 [Web & Social Media Integration System](https://github.com/mo-awad521/social-media-link)
 Graduation Project
 * **Developed a system connecting a website to a social media platform.
 * **mplemented secure authentication using JWT.
