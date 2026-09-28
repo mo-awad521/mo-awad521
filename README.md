@@ -1,5 +1,5 @@
 # Hi there, I'm Mohammad Alawad 👋
-## Backend Developer | Node.js | NestJS | TypeScript
+## Software Engineer | Node.js | React.js | NestJS | TypeScript
 
 A **Software Engineering graduate** passionate about designing and building scalable, secure, and highly concurrent backend systems. I enjoy solving complex database challenges, implementing robust event-driven workflows, and writing clean, maintainable code.
 
@@ -8,6 +8,7 @@ A **Software Engineering graduate** passionate about designing and building scal
 ### 🛠️ Tech Stack
 
 * **Languages:** JavaScript (ES6+), TypeScript, SQL
+* **Frontend:** React.js, TailwindCSS
 * **Backend Frameworks:** Node.js, Express.js, NestJS
 * **Databases & ORMs:** MySQL, Prisma ORM, TypeORM
 * **Tools & Ecosystem:** Git, GitHub, Postman, RESTful API Design, JWT, WebSockets (Socket.io)
@@ -30,6 +31,11 @@ A production-ready e-commerce backend managing complete end-to-end purchasing wo
 * **Access Control:** Built a secure authentication & authorization system featuring **Role-Based Access Control (RBAC)**.
 * **Features:** Integrated secure checkouts, product filtering, pagination, Cloudinary image uploads, and automated transactional emails via Nodemailer.
 
+#### 🧩 [Web & Social Media Integration System](Repository: https://github.com/mo-awad521/social-media-link)
+Graduation Project
+* **Developed a system connecting a website to a social media platform.
+* **mplemented secure authentication using JWT.
+  
 ---
 
 ### 📬 Connect with me:
